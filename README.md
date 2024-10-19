@@ -13,7 +13,7 @@
 𝝩𝗵𝗶𝘀 𝗽𝗿𝝾𝗷𝗲𝗰𝘁 𝗶𝘀 𝗳𝝾𝗰𝞄𝘀𝗲𝗱 𝝾𝗻 𝝞𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝝼𝗲𝗿𝝲 𝗶𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝗥𝗲𝗮𝗰𝘁 𝗰𝗼𝗻𝗰𝗲𝗽𝘁 𝞄𝘀𝗲𝗥𝗲𝗱𝞄𝗰𝗲𝗿
 
 
-<a href="https://react-quiz-app-phoenix.netlify.app/">✅ 𝗩𝗶𝗲𝞈 𝗱𝗲𝗺𝝾</a>
+<a href="https://the-react-quiz.netlify.app/">✅ 𝗩𝗶𝗲𝞈 𝗱𝗲𝗺𝝾</a>
 <br/>
 <a href="https://github.com/pH0enix46/Quiz-App--REACT/issues">🐛 𝗕𝞄𝗴 𝗿𝗲𝗽𝝾𝗿𝘁</a>
 
