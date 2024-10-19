@@ -1,0 +1,1 @@
+run `npm i json-server`, it installs a tool to create a quick fake API for testing. Then type `"json-server --watch data/questions.json --port 8000"` on package.json file's inside "scripts" tag. Then `npm run server`. 8000 e kaj na hole 9000
